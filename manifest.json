@@ -1,0 +1,21 @@
+{
+  "name": "SHEAKMENG OFFICIAL AI 2025",
+  "short_name": "SHEAKMENG AI",
+  "description": "An AI-powered web application to generate prompts from images, images from prompts, and videos from images and prompts.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#8A2BE2",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
